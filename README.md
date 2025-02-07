@@ -1,6 +1,6 @@
 # Blogmaker
 
-This is an ultra-simple self-hosted blog publishing solution.
+This is an ultra-simple Self-hosted blog publishing solution.
 
 ### Dependencies
 
